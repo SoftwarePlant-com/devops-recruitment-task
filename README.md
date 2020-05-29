@@ -27,7 +27,7 @@ If during the task completion you are blocked, you can submit your questions to 
 - Node.js@12.16.3
 - npm@6.14.4
 - Git
-- Docker
+- Docker 2.1.5.0 or later
 
 Suggestion: Use nvm for node and npm.
 
