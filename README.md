@@ -16,7 +16,7 @@ The evaluation will be carried out through a quick interview in which you will p
 - You can make use of Google at any time.
 - There are no passing conditions or requirements. This means that it's possible to pass the interview without solving all of the tasks correctly. In this case, It's highly appreciated to understand why the task could not be solved.
 - You cannot edit the application's code, unless there's a justfied reason to do it.
-- The interview will be carried out in English.
+- The interview will be carried out in English. You will be asked to share your screen.
 
 ## Feel free to ask questions
 
