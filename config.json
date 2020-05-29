@@ -1,0 +1,16 @@
+{
+  "development": {
+    "postgres": {
+      "host": "localhost",
+      "port": 1234,
+      "database": "databasename",
+      "user": "user",
+      "password": "password"
+    },
+    "redis": {
+      "host": "localhost",
+      "port": 1234
+    }
+  },
+  "production": {}
+}

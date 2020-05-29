@@ -64,7 +64,7 @@ Once the application is configured with the location of the databases that you p
 
 - Install the application dependencies: `npm install`
 - Compile the application: `npx tsc`
-- Run the application: `node build/index.js`
+- Run the application: `node build/index.js config.json`
 
 Note: Run these commands in the project's directory.
 
