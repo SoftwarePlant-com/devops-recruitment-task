@@ -46,7 +46,7 @@ const redisCl = {
     config,
     set,
     get,
-    isReady: () => isReady
+    isReady: () => client.connected ? true : false
 };
 
 export default redisCl;
